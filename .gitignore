@@ -1,0 +1,8 @@
+## Ignore File ##
+
+
+# build
+*.egg-info
+
+# work_dirs
+work_dirs/
